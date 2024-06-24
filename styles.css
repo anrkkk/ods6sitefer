@@ -1,0 +1,675 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.logo{
+    position:relative;
+    width: 200px;
+    left: 100px;
+    top: 0px;
+    width: 350px;
+}
+
+.perdasdeagua{
+    position: absolute;
+    color: rgba(0, 0, 189, 0.877);
+    left: 100px;
+    top: 800px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.textoinformativo2023{
+    color: rgb(4, 4, 131);
+    position: relative;
+    top: -810px;
+    font-size: 25px;
+    font-weight: 200;
+    height: 300px;
+    max-width: 800px;
+    left: 600px;
+}
+.fa-clipboard{
+    position: absolute;
+    font-size: 35px;
+    left: 1300px;
+    top:960px;
+}
+
+.detalhes{
+    position: absolute;
+    color: rgba(0, 0, 189, 0.877);
+    left: 1550px;
+    top: 900px;
+    font-size:37px;
+    max-width: 300px;
+
+}
+.hrefdapesquisa{
+    font-size: 29px;
+    position: absolute;
+    left: 1605px;
+    top: 950px;
+    text-decoration: none;
+    color: black;
+    font-weight: 200;
+    
+}
+.hrefdapesquisa2{
+    font-size: 29px;
+    position: absolute;
+    left: 1600px;
+    top: 1000px;
+    text-decoration: none;
+    color: black;
+    font-weight:200;
+
+}
+.hrefdapesquisa3{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-weight: 200;
+    font-size: 29px;
+    top: 1057px;
+    left: 1600px;
+}
+.hrefdapesquisa4{
+    position: absolute;
+    text-decoration:none;
+    color: black;
+    font-weight: 200;
+    font-size: 29px;
+    max-width: 300px;
+    top: 1100px;
+    left: 1600px;
+}
+.removetextdecoration{
+    text-decoration: none;
+}
+.fotoindex{
+    position: relative;
+    left: 00px;
+    top: -90px;
+    width: 1964px;
+}
+.fotoindex2022{
+    position: relative;
+    width: 1965px;
+    top: -90px;
+}
+.logo_footer{
+position: relative;
+left: 600px;
+width: 300px;
+
+}
+.text-center{
+    position: relative;
+    top: 500px;
+}
+.input_search{
+    position: absolute;
+    border: solid rgba(15, 143, 248, 0.767);
+    border-radius:40px;
+    height: 55px;
+    width: 250px;
+    
+    top: 110px;
+    left: 1140px;
+    border-width: 2px;
+    align-items: center;
+
+}
+.input_search::placeholder{
+    position: relative;
+    align-items: center;
+    left: 50px;
+    color: rgba(128, 128, 128, 0.356);
+    font-size: 22px;
+    top: 5px;
+}
+.fa-magnifying-glass{
+    position: relative;
+    left:900px;
+   font-size: 25px;
+   top: -1355px;
+   color: rgba(128, 128, 128, 0.356);
+   
+}
+.social_media{
+    position: absolute;
+    font-size: 20px;
+    left: 1150px;
+    top:50px;
+    color:white;
+    
+    
+    
+}
+.fa-tiktok{
+    background-color: rgba(15, 143, 248, 0.767);
+    border-radius: 50px;
+    width: 40px;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.fa-square-twitter{
+    background-color: rgba(15, 143, 248, 0.767);
+    border-radius: 50px;
+    width: 40px;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    color: white;
+
+}
+.fa-youtube{
+    background-color: rgba(15, 143, 248, 0.767);
+    border-radius: 50px;
+    width: 40px;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.fa-facebook{
+    background-color: rgba(15, 143, 248, 0.767);
+    border-radius: 50px;
+    width: 40px;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    color: white;
+
+}
+.fa-instagram{
+    background-color: rgba(15, 143, 248, 0.767);
+    border-radius: 50px;
+    width: 40px;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.btn-primary{
+    position: relative;
+    background-color: rgba(15, 143, 248, 0.767);
+    width: 170px;
+    height: 50px;
+    border-radius: 40px;
+    left:1430px;
+    top: -145px;
+    font-size: 23px;
+    
+}
+
+
+  .bloghref{
+    font-weight: 500;
+
+  }
+ .fa-envelope{
+    position: relative;
+    font-size: 35px;
+    top: -100px;
+    left: 1750px;
+    color: rgb(0, 17, 110);
+ }
+ .dropdown {
+    position: relative;
+    display: inline-block;
+    left: 900px;
+    top: -100px;
+}
+
+.dropdown-button {
+    background-color: white;
+    color: rgb(4, 4, 131);
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.dropdown-button:hover,
+.dropdown-button:focus {
+    background-color: white;
+    
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(7, 47, 179);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.fa-chevron-left{
+    position: absolute;
+    font-size: 30px;
+    top:1700px;
+    left: 100px;
+    color:rgba(128, 128, 128, 0.356);
+}
+.contatoimg{
+    position: absolute;
+    width: 1945px;
+    left: 10px;
+}
+.agua2023banner{
+    position: relative;
+    left: 100px;
+    width: 400px;
+    top: -200px;
+}
+.clipboard{
+    position: absolute;
+    left: 1550px;
+    top: 1020px;
+    width: 40px;
+}
+.links{
+  position: relative;
+  top: -1880px;
+}
+.greenarea{
+    position:absolute;
+    top:900px;
+    height: 900px;
+    background-color: rgb(62, 143, 62);
+    width: 1950px;
+}
+.contatotext{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    left: 100px;
+    top: 100px;
+}
+.input1{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 100px;
+    top: 200px;
+}
+.inputnome{
+    position: absolute;
+    border-radius: 40px;
+    width: 800px;
+    height: 80px;
+    top: 300px;
+    left: 100px;
+}
+.inputemail{
+    position: absolute;
+    border-radius: 40px;
+    width: 800px;
+    height: 80px;
+    top: 400px;
+    left: 100px;
+}
+.inputtelefone{
+    position: absolute;
+    border-radius: 40px;
+    width: 800px;
+    height: 80px;
+    top: 300px;
+    left: 920px;
+
+}
+.inputprincipal{
+    position: absolute;
+    top: 500px;
+    width: 1645px;
+    height: 300px;
+    left: 100px;
+    border-radius: 40px;
+}
+.sendbutton{
+    position: absolute;
+    background-color: blue;
+    color: white;
+    border-radius: 40px;
+    width: 180px;
+    height: 80px;
+    font-size: 25px;
+    font-weight: 600;
+    top: 810px;
+    left: 100px;
+}
+.sendbutton:hover{
+    background-color: rgb(4, 4, 121);
+}
+.footer{
+    background-color: #003E9B;
+    height: 700px;
+}
+.logofooter{
+    position: absolute;
+    left: 830px;
+    width: 300px;
+}
+.mediafooter{
+    position: absolute;
+    left: 870px;
+    top: 2450px;
+    background-color:#003E9B;
+    color: white;
+    text-decoration: none;
+    
+    
+}
+.slogan{
+    position: absolute;
+    color: white;
+    left: 830px;
+    font-size: 24px;
+    top: 2400px;
+    font-weight: 700;
+}
+.devsh1{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    left: 1650px;
+    top: 2500px;
+}
+.devs{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    max-width: 400px;
+    left: 1600px;
+}
+.eteclogo{
+    position: absolute;
+    width: 100px;
+    left: 1700px;
+    top: 2420px;
+}
+.tudo{
+    position: relative;
+    top: 300x;
+}
+.agua2022banner{
+    position: relative;
+    top: -660px;
+    width: 320px;
+    left: 100px;
+}
+.textoinformativo2022{
+    color: rgb(4, 4, 131);
+    position: relative;
+    top: -310px;
+    font-size: 25px;
+    font-weight: 400;
+    height: 300px;
+    max-width: 800px;
+    left: 600px;
+}
+.agua2024banner{
+        position: relative;
+        top:-600px;
+        width: 340px;
+        left: 140px;
+
+    
+}
+.move{
+    position: absolute;
+    top:180px;
+    left: 700px;
+    
+}
+#perdasdeagua2021{
+    position: absolute;
+    top: 740px;
+}
+/*IDS HERE */
+#carouselExampleRide{
+    position: relative;
+    width: 1200px;
+right: -300px;
+   
+}
+#slide1agua{
+    position: relative;
+    height: 600px;
+}
+#slideagua2{
+    position: relative;
+    height: 600px;
+}
+#slideagua3{
+    position: relative;
+    height: 600px;
+}
+#fa-clipboard2{
+    position: absolute;
+    top:-435px;
+}
+#footer_content{
+    position: absolute;
+    top:2000px;
+    height: 400px;
+    left: 00px;
+    width: 1740px;
+    background-color: rgb(26, 53, 207);
+}
+#textoinformativo2022{
+    position: relative;
+    top: 00px;
+}
+#inputscoment::placeholder{
+    position: relative;
+    color:gray;
+    font-size: 25px;
+    left: 30px;
+
+}
+#inputmain::placeholder{
+    position: relative;
+    color:gray;
+    font-size: 25px;
+    top: -100px;
+   
+
+}
+#tt{
+    background-color: #003E9B;
+    font-size: 30px;
+    color: white;
+}
+#tiktok{
+    background-color: #003E9B;
+    font-size: 30px;
+    color: white;
+}
+#face{
+    background-color: #003E9B;
+    font-size: 30px;
+    color: white;
+}
+#yt{
+    background-color: #003E9B;
+    font-size: 30px;
+    color: white;
+}
+#insta{
+    background-color: #003E9B;
+    font-size: 30px;
+    color: white;
+}
+#blogfooter{
+    position: absolute;
+    top: 2550px;
+    left: 890px;
+    width: 200px;
+    height: 60px;
+}
+#mediafooter2022{
+    position: absolute;
+    top: 1400px;
+}
+
+#aguabanner2{
+    position: relative;
+    top:-600px;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.menu-item {
+    position: relative;
+}
+
+.menu-item a {
+    display: block;
+    padding: 15px 20px;
+    color: #0056A2;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+
+.submenu {
+    display: none;
+    position: absolute;
+    background-color: #0056A2;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    top: 100%;
+    left: 0;
+    min-width: 200px;
+    z-index: 2; /* Adiciona z-index ao submenu */
+}
+
+.submenu li a {
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.submenu li a:hover {
+    background-color: #003E73;
+}
+
+.menu-item:hover .submenu {
+    display: block;
+}
+
+.imagem {
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 0; /* Certifica-se que a imagem tem um z-index menor */
+}
+.container2{
+    position: absolute;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    top: 800px;
+    left: 600px;
+}
+
+.main-title {
+    color: #0056A2;
+    font-size: 50px;
+    margin-bottom: 0.5em;
+}
+
+.main-title .highlight {
+    font-weight: bold;
+}
+
+.intro-paragraph {
+    margin-bottom: 1em;
+    font-size: 25px;
+    max-width: 2000px;
+}
+
+.sub-title {
+    color: #0056A2;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+.main-paragraph {
+    margin-bottom: 1em;
+    font-size: 25px;
+}
+.p{
+    position: relative;
+    top: -100px;
+    left: 400px;
+}
+.primeiro{
+    position: absolute;
+    font-size: 25px;
+    max-width: 300px;
+    top: 2000px;
+}
+#sumir{
+    position: relative;
+    top: -2000px;
+}
+.p2030{
+    position: relative;
+    font-size: 25px;
+    max-width: 300px;
+    left: 600px;
+    top: -100px;
+    font-weight: 500;
+}
+.p20302{
+    position: relative;
+    font-size: 25px;
+    max-width: 500px;
+    left: 920px;
+    top: -270px;
+    font-weight: 500;
+}
+.p23{
+    position: relative;
+    font-size: 25px;
+    max-width: 500px;
+    font-weight: 500;
+    left: 1450px;
+    top: -500px;
+}
+#links{
+    position: relative;
+    top: -1960px;
+}
+#agua22{
+    position: relative;
+    top: -400px;
+}
